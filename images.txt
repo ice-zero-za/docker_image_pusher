@@ -2,3 +2,4 @@
 docker.io/kubeflowkatib/katib-controller:v0.15.0
 docker.io/kubeflowkatib/katib-ui:v0.15.0
 docker.io/kubeflowkatib/katib-db-manager:v0.15.0
+docker.io/kubeflowkatib/cert-generator:v0.15.0
