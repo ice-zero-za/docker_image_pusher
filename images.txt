@@ -1,2 +1,2 @@
 #支持私库
-mpioperator/mpi-operator:0.5.0
+docker.io/kubeflowkatib/katib-controller:v0.17.0
